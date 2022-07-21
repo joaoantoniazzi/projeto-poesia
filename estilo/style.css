@@ -14,7 +14,7 @@
     --fonte01: Arial, Helvetica, sans-serif;
     --fonte02: 'Lobster', cursive;
     --fonte03: 'Arima', cursive;
-    --cor01: rgb(255, 255, 250);
+    --cor01: rgb(255, 255, 240);
     --cor02: rgb(153, 17, 17);
 }
 
@@ -82,12 +82,10 @@ section > p {
 
 #img1 {
     background-image: url('../imagens/imagem001.jpg');
-    background-position: right center;
 }
 
 #img2 {
     background-image: url('../imagens/imagem002.jpg');
-    background-position: left top;
 }
 
 footer {
