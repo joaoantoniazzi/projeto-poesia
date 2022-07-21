@@ -14,7 +14,7 @@
     --fonte01: Arial, Helvetica, sans-serif;
     --fonte02: 'Lobster', cursive;
     --fonte03: 'Arima', cursive;
-    --cor01: rgb(253, 255, 205);
+    --cor01: rgb(255, 255, 250);
     --cor02: rgb(153, 17, 17);
 }
 
@@ -22,7 +22,6 @@ header {
     background-color: var(--cor02);
     padding: 30px;
     text-align: center;
-    margin-bottom: 2em;
 }
 
 header > h1 {
@@ -62,7 +61,7 @@ section > p {
     font-size: 1.3em;
     padding: 10px;
     margin-bottom: 1.5em;
-    margin-left: 1.5em;
+    margin-left: 1.125em;
 }
 
 .imagem {
@@ -70,6 +69,7 @@ section > p {
     color: white;
     background-size: cover;
     background-attachment: fixed;
+    background-position: center center;
     box-shadow: inset 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
 
