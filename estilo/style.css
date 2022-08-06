@@ -36,29 +36,6 @@ header > p {
     font-size: 1.125em;
 }
 
-nav {
-    text-align: justify;
-}
-
-nav > p {
-    display: inline-block;
-    margin-top: 25px;
-    margin-right: 5vw;
-    font-size: 1.125em;
-}
-
-nav > p > a {
-    padding: 7.5px;
-    border-radius: 10px;
-    font-weight: bold;
-}
-
-nav > p > a:hover {
-    background-color: var(--cor01);
-    color: var(--cor02);
-    text-decoration: none;
-}
-
 a {
     text-decoration: none;
     color: white;
@@ -104,7 +81,6 @@ section > p {
 
 #img1 {
     background-image: url('../imagens/imagem003.jpg');
-    background-position: left center;
 }
 
 #img2 {
